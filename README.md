@@ -5,3 +5,7 @@ You can notice a few details like category of your expense, shop, date and even 
 
 
 ![Adnotacja 2019-12-10 191155](https://user-images.githubusercontent.com/38052250/70556409-22fda200-1b81-11ea-8970-985252d3df07.png)
+
+## Collaborator:
+
+<a href="https://github.com/NaIwo"><img src="https://avatars3.githubusercontent.com/u/38052250?s=400&v=4" title="NaIwo" width="80" height="80"></a>
